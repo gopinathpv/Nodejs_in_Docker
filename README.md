@@ -5,7 +5,7 @@
 # Technologies used
  - Nodejs
  - Express
- - pug
+ - pug(view Engine)
  - Docker
  
  - visit http://localhost:3080
