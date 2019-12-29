@@ -1,0 +1,7 @@
+if artwork && artwork.length
+  h1.sidebar-title Places to Explore
+  p.sidebar-body
+    | Images
+  .pixgrid.clearfix
+    each thumb, index in artwork
+      img(src=`/images/artwork/${thumb}`, alt=`Artwork ${index}`)

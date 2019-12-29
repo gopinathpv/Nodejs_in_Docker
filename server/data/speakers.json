@@ -1,0 +1,48 @@
+{
+  "speakers": [
+    {
+      "title": "Florida",
+      "name": "Destin",
+      "shortname": "Destin",
+      "summary": "Destin is a city located in Okaloosa County, Florida. ... Located on Florida's Emerald Coast, Destin is known for its white beaches and emerald green waters. Originating as a small fishing village, it is now a popular tourist destination.",
+      "description": "<p>At the western tip of the peninsula is East Pass (also known as Destin Pass), separating it from Santa Rosa Island to the west. East Pass is the only outlet of Choctawhatchee Bay into the Gulf of Mexico, Many sources claim that the current pass was dug by hand with an inrush of water widening it within hours. The early pass appears (at the East end of Destin Harbor) in early maps and surveys from Spanish, French, and English surveyors, such as Thomas Jefferys's 1775 map The Coast of West Florida and Louisiana.[15] Frequent dredging is required to keep East Pass navigable</p>",
+      "artwork": [
+        "Destin_01.jpg",
+        "DEstin_02.jpg",
+        "Destin_03.jpg",
+        "Destin_04.jpg",
+        "Destin_05.jpg"
+      ]
+    },
+    {
+      "title": "Georgia",
+      "name": "Savannah",
+      "shortname": "savva",
+      "summary": "SAVANNAH is the true story of Ward Allen, a romantic and bombastic character who rejects his plantation heritage for the freedom of life on a river. ... An elderly Moultrie tells the story of life on the river with his friend to a little boy, who passes the legendary Ward Allen down to the next generation.",
+      "description": "<p>Each year Savannah attracts millions of visitors to its cobblestone streets, parks, and notable historic buildings. These buildings include the birthplace of Juliette Gordon Low (founder of the Girl Scouts of the USA), the Georgia Historical Society (the oldest continually operating historical society in the South), the Telfair Academy of Arts and Sciences (one of the South's first public museums), the First African Baptist Church (one of the oldest African-American Baptist congregations in the United States), Temple Mickve Israel (the third-oldest synagogue in the U.S.), and the Central of Georgia Railway roundhouse complex (the oldest standing antebellum rail facility in the U.S.).</p>",
+      "artwork": [
+        "savva_01.jpg",
+        "savva_02.jpg",
+        "savva_03.jpg",
+        "savva_04.jpg",
+        "savva_05.jpg",
+        "savva_06.jpg"
+
+      ]
+    },
+    {
+      "title": "Chicago",
+      "name": "Wisconsin",
+      "shortname": "wis",
+      "summary": "he history of Wisconsin encompasses the story not only of the people who have lived in Wisconsin since it became a state of the U.S",
+      "description": "<p>The first known inhabitants of what is now Wisconsin were Paleo-Indians, who first arrived in the region in about 10,000 BC at the end of the Ice Age. The retreating glaciers left behind a tundra in Wisconsin inhabited by large animals, such as mammoths, mastodons, bison, giant beaver, and muskox. The Boaz mastodon and the Clovis artifacts discovered in Boaz, Wisconsin show that the Paleo-Indians hunted these large animals. They also gathered plants as conifer forests grew in the glaciers' wake. With the decline and extinction of many large mammals in the Americas, the Paleo-Indian diet shifted toward smaller mammals like deer and bison</p>",
+      "artwork": [
+        "wis_01.jpg",
+        "wis_02.jpg",
+        "wis_03.jpg",
+        "wis_04.jpg",
+        "wis_05.jpg"
+      ]
+    }
+  ]
+}
