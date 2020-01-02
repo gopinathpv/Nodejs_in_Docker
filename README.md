@@ -8,7 +8,7 @@
  - pug(view Engine)
  - Docker
  
- - visit http://localhost:3080
+ - visit http://localhost:3000
  
 # Before start the code
   - please make sure that you have nodejs and docker intalled for the project
