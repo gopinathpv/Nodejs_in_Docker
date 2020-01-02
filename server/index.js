@@ -55,7 +55,7 @@ app.use((err, req, res, next) => {
   return res.render('error');
 });
 
-const port = 3080;
+const port = 3000;
 app.listen(port, function(){
   console.log("Listening to ", port)  
 })
