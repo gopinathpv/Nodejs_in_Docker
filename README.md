@@ -15,4 +15,4 @@
 
 #Docker Commands
   - docker built -t Trip .
-  - docker run -p 3080:3080 Trip
+  - docker run -p 3000:3000 Trip
